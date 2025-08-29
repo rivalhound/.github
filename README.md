@@ -8,7 +8,6 @@
 
 [![Website](https://img.shields.io/badge/🌐%20Website-rivalhound.com-DC2626?style=for-the-badge)](https://rivalhound.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0891B2?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/rivalhound)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/rivalhound)
 
 </div>
 
