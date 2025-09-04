@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![RivalHound Logo](https://raw.githubusercontent.com/rivalhound/rivalhound/main/assets/rivalhound-logo.png)
+![RivalHound Logo](https://raw.githubusercontent.com/rivalhound/rivalhound/main/assets/rivalhound-primary.svg#gh-light-mode-only)
+![RivalHound Logo](https://raw.githubusercontent.com/rivalhound/rivalhound/main/assets/rivalhound-primary-dark-background.svg#gh-dark-mode-only)
 
 **Sniff out the competition in the AI search era**
 
